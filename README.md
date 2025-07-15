@@ -1,6 +1,6 @@
 # B2B-SALES-PIPLELINE-ANALYSIS
 
-## Project Background
+## Project Background 
 
 In today’s competitive B2B landscape, effectively managing high-value sales opportunities is critical for businesses to drive revenue, optimize sales strategies, and maintain a competitive edge. The sales pipeline generates vast amounts of data on leads, deal values, and sales rep performance, presenting an opportunity to transform this data into actionable insights. The challenge lies in identifying top-performing sales reps, understanding pipeline dynamics, and addressing bottlenecks to improve conversion rates and maximize deal value.  
 
