@@ -55,7 +55,7 @@ The dataset forms the backbone of the B2B Sales Pipeline Performance Report, str
 - **Date Consistency**: Ensured date fields were uniformly formatted and covered the relevant period.
 
 Deliverables
-Power BI (.pbix) file with the dashboard.
+Power BI [B2B.pbix](https://github.com/Numb3rNinja/B2B-SALES-PIPELINE-DASHBOARD.git) file with the dashboard.
 SQL Queries used for analysis can be found [here](https://github.com/Numb3rNinja/SQL-Queries-for-B2B-Analysis.git)
 
 # Executive Summary
