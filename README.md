@@ -14,7 +14,6 @@ This project was undertaken to develop a Power BI report analyzing sales pipelin
 - **Overall Pipeline Metrics**: Summary of total leads, pipeline value, and conversion rates to provide a holistic view of pipeline health.  
 An interactive Power BI dashboard was developed to visualize these focus areas, offering dynamic filters and visuals (e.g., funnel chart, bar chart, column chart, table) to explore sales rep performance, pipeline stages, and deal outcomes.
 
----
 
 ### Data Structure & Initial Checks  
 The dataset forms the backbone of the B2B Sales Pipeline Performance Report, structured to support detailed analysis of lead progression and sales rep effectiveness for high-value Technology leads.  
