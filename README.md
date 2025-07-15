@@ -64,6 +64,7 @@ The sales pipeline for high-value Technology leads (deal value > $20,000) is rob
 **Pipeline Progression**
 
 Analysis of pipeline progression reveals the distribution of leads across pipeline stages: 143 in New, 171 in Contacted, 193 in Qualified, 186 in Proposal, 175 in Negotiation, 154 in Won, and 138 in Lost. This progression highlights a strong lead qualification process, as the pipeline peaks at the Qualified stage with 193 leads, a 34.9% increase from the New stage. However, the subsequent drop to 186 leads in Proposal (-3.6%) and 175 in Negotiation (-5.9% from Proposal) indicates moderate attrition in mid-pipeline stages, suggesting potential inefficiencies in moving leads from qualification to negotiation. The most significant bottleneck occurs between Negotiation (175 leads) and Won (154 leads), with only 88% of Negotiation leads converting to closed deals, while 138 leads (11.9% of the total pipeline) are lost. This drop-off underscores challenges in finalizing deals, possibly due to pricing disputes, contract complexities, or competitive pressures. 
+![Image](https://github.com/user-attachments/assets/d2a433f5-c033-449f-8775-bcd83ba87bf5)
 
 **Total Deal Value by Sales Rep**
 
