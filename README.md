@@ -58,7 +58,7 @@ The dataset forms the backbone of the B2B Sales Pipeline Performance Report, str
 # Executive Summary
 **Overview of Findings**  
 The sales pipeline for high-value Technology leads (deal value > $20,000) is robust, with 1,160 leads and a total pipeline value of $294.7M. However, the overall conversion rate of 13.28% (154 won deals) indicates room for improvement in closing deals. Mary Perkins leads in conversion rate (23.21%), while Randall Clarke dominates in total deal value ($17.3M). Christopher Figueroa secures the highest average deal value ($282K). Pipeline progression analysis reveals a bottleneck between Negotiation (175 leads) and Won (154 leads), suggesting challenges in finalizing deals.  
-
+![Image](https://github.com/user-attachments/assets/73432562-7c60-45f3-b8f7-d3cb4c3bf0be)
 
 ## Insights Deep-Dive
 **Pipeline Progression**
