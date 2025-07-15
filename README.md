@@ -4,7 +4,7 @@
 
 In today’s competitive B2B landscape, effectively managing high-value sales opportunities is critical for businesses to drive revenue, optimize sales strategies, and maintain a competitive edge. The sales pipeline generates vast amounts of data on leads, deal values, and sales rep performance, presenting an opportunity to transform this data into actionable insights. The challenge lies in identifying top-performing sales reps, understanding pipeline dynamics, and addressing bottlenecks to improve conversion rates and maximize deal value.  
 
-This project was undertaken to develop a Power BI report analyzing sales pipeline metrics for high-value Technology leads (deal value > $20,000). The report leverages a comprehensive dataset capturing key metrics such as `lead_id`, `sales_rep`, `lead_status`, `deal_value`, `industry`, and more. By providing an interactive dashboard with KPI cards, a funnel chart, bar charts, column charts, and tables, the report empowers sales leaders to make data-driven decisions to enhance rep performance, optimize pipeline management, and achieve revenue goals.  
+This project was undertaken to develop a Power BI report analyzing sales pipeline metrics for high-value Technology leads (deal value > $20,000). The report leverages a comprehensive dataset capturing key metrics such as `lead_id`, `sales_rep`, `lead_status`, `deal_value`, `industry`, and more. The project aims to empowers sales leaders to make data-driven decisions to enhance rep performance, optimize pipeline management, and achieve revenue goals.  
 
 **Key Insights and Recommendations Focused On**:  
 - **Pipeline Progression**: Analysis of leads across pipeline stages (New, Contacted, Qualified, Proposal, Negotiation, Won, Lost) to identify bottlenecks and conversion efficiency.  
@@ -55,8 +55,8 @@ The dataset forms the backbone of the B2B Sales Pipeline Performance Report, str
 - **Date Consistency**: Ensured date fields were uniformly formatted and covered the relevant period.
 
 Deliverables
-Power BI [B2B.pbix](https://github.com/Numb3rNinja/B2B-SALES-PIPELINE-DASHBOARD.git) file with the dashboard.
-SQL Queries used for analysis can be found [here](https://github.com/Numb3rNinja/SQL-Queries-for-B2B-Analysis.git)
+- Power BI [B2B.pbix](https://github.com/Numb3rNinja/B2B-SALES-PIPELINE-DASHBOARD.git) file with the dashboard.
+- SQL [queries](https://github.com/Numb3rNinja/SQL-Queries-for-B2B-Analysis.git) used for analysis.
 
 # Executive Summary
 **Overview of Findings**  
@@ -85,7 +85,7 @@ Assessment of conversion rates by sales representative (Technology, Deal Value >
 ![Image](https://github.com/user-attachments/assets/8bbcc703-7ba0-4900-a83b-5c0b2a9ab53c)
 
 ### Recommendations
-Optimize Negotiation-to-Won Conversion**:  
+**Optimize Negotiation-to-Won Conversion**:  
 - Pipeline progression shows a drop from Negotiation (175) to Won (154). Implement training on advanced negotiation tactics and deal-closing strategies to address this bottleneck.  
 - Analyze lost deals (138) to identify common reasons (e.g., pricing, contract terms) and adjust offerings accordingly.  
 
