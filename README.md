@@ -54,6 +54,8 @@ The dataset forms the backbone of the B2B Sales Pipeline Performance Report, str
 - **Outlier Detection**: Inspected `deal_value` and `lead_score` for outliers (e.g., unusually high deal values) to flag potential data errors.  
 - **Date Consistency**: Ensured date fields were uniformly formatted and covered the relevant period.
 
+Deliverables
+Power BI (.pbix) file with the dashboard.
 SQL Queries used for analysis can be found [here](https://github.com/Numb3rNinja/SQL-Queries-for-B2B-Analysis.git)
 
 # Executive Summary
